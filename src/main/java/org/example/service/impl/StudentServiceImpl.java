@@ -1,7 +1,7 @@
 package org.example.service.impl;
 
 import org.example.base.BaseService;
-import org.example.domain.Student;
+import org.example.entity.Student;
 import org.example.service.StudentService;
 import org.springframework.stereotype.Service;
 

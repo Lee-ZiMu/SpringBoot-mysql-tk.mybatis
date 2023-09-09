@@ -1,7 +1,7 @@
 package org.example.service;
 
 import org.example.base.IService;
-import org.example.domain.Student;
+import org.example.entity.Student;
 
 /**
  * @Version v1.0

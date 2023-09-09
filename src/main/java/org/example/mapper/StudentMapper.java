@@ -1,7 +1,7 @@
 package org.example.mapper;
 
 import org.example.base.BaseMapper;
-import org.example.domain.Student;
+import org.example.entity.Student;
 import org.springframework.stereotype.Repository;
 
 /**
